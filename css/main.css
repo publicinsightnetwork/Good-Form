@@ -151,6 +151,10 @@ textarea, .textarea {
     box-sizing: border-box;
 }
 
+textarea {
+    min-height: 5.5em;
+}
+
 .select {
     height: 68px;
 }
