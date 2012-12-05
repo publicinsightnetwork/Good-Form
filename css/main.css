@@ -156,7 +156,7 @@ textarea {
 }
 
 .select {
-    height: 68px;
+    height: 64px;
 }
 
 .select select { 
@@ -183,6 +183,11 @@ textarea {
 
 .radio .label, .checkboxes .label {
     margin-left: 6px;
+}
+
+.inline li {
+    float: left;
+    margin-right: 20px; 
 }
 
 .field-border {
